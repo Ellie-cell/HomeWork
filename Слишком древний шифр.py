@@ -1,4 +1,4 @@
-from traceback import print_stack
+
 
 for i in range(3, 21):
 
